@@ -1,4 +1,3 @@
-from asyncio import WriteTransport
 import discord
 from discord.ext import commands
 from pystyle import *
